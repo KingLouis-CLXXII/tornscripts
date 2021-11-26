@@ -5,7 +5,8 @@
 // @author       KingLouisCLXXII [2070312]
 // @icon         https://www.google.com/s2/favicons?domain=torn.com
 // @updateURL    https://raw.githubusercontent.com/KingLouis-CLXXII/tornscripts/main/dblclickbuy.js
-// @grant        none
+// @grant
+// @license MIT
 // ==/UserScript==
 
 (function() {

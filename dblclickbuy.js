@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Double click bazaar buy
-// @version      1.0
+// @description  Double click buy
+// @version      1.1
 // @match        https://www.torn.com/bazaar.php*
 // @author       KingLouisCLXXII [2070312]
 // @icon         https://www.google.com/s2/favicons?domain=torn.com
-// @updateURL    https://raw.githubusercontent.com/KingLouis-CLXXII/tornscripts/main/dblclickbuy.js
-// @grant
+// @grant        none
 // @license MIT
+// @namespace https://greasyfork.org/users/844643
 // ==/UserScript==
 
 (function() {

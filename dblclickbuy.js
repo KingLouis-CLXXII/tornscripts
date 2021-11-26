@@ -4,7 +4,7 @@
 // @match        https://www.torn.com/bazaar.php*
 // @author       KingLouisCLXXII [2070312]
 // @icon         https://www.google.com/s2/favicons?domain=torn.com
-// @updateURL
+// @updateURL    https://raw.githubusercontent.com/KingLouis-CLXXII/tornscripts/main/dblclickbuy.js
 // @grant        none
 // ==/UserScript==
 
